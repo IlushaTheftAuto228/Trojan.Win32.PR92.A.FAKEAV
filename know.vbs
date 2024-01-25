@@ -1,0 +1,1 @@
+rock=msgbox ("I AM NOT YOUR FRIEND" ,48, "KHOW THIS")

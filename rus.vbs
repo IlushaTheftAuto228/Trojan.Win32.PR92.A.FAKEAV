@@ -1,0 +1,1 @@
+rock=msgbox ("SAY BYE TO YOUR PC AND YOUR PARENTS' MONEY" ,48, "Я РУССКИЙ")

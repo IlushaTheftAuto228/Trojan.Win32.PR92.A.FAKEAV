@@ -1,0 +1,1 @@
+rock=msgbox ("YOU" ,0, "WHO IS THE WORLD DUMBEST MAN?")

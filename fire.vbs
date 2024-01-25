@@ -1,0 +1,1 @@
+rock=msgbox ("WHY DO YOU STILL USE THIS COMPUTER" ,0, "МЫ НА ЛУНУ СХОДИЛИ В ТУБЗИАЛЕТ")

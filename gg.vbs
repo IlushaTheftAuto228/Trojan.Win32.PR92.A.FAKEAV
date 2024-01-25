@@ -1,0 +1,1 @@
+rock=msgbox ("DON'T DARE TO DESTROY ME" ,48, "LISTEN SMART BABY")
